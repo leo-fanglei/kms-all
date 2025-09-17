@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__filesystem__fast_get_directory_tree",
+      "Bash(powershell:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
