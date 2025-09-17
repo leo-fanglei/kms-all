@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # KMS-Wind 项目文档总览
 
 KMS-Wind 是一个基于 Atlassian Confluence 架构设计的企业级知识管理系统，采用现代化的技术栈和微服务架构，为企业提供高效的知识协作平台。
